@@ -1,0 +1,12 @@
+md5: 7aa2d8d5c456c712bfc8617765f38b2d
+frozen: true
+deps:
+- path: params.yaml
+  repo:
+    url: git@github.com:pmrowla/test-b.git
+    rev_lock: 9d6560a113279014d4d51f981d4dc7c990c71fe4
+outs:
+- md5: 37b91651347defb0103472be09f14b0b
+  size: 7
+  hash: md5
+  path: params.yaml
