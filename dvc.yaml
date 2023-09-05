@@ -1,0 +1,8 @@
+stages:
+  test:
+    cmd: echo OUT > out.txt
+    deps:
+    - params/a/params.yaml
+    - params/b/params.yaml
+    outs:
+    - out.txt
